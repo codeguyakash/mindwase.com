@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-10-09T12:55:14.041Z",
+  "downloadSpeedMbps": 0,
+  "downloadSpeedMBs": "0.00",
+  "uploadSpeedMbps": 0,
+  "uploadSpeedMBs": "0.00",
+  "latencyMs": 0,
+  "jitterMs": 0,
+  "packetLossPct": 0,
+  "client": {
+    "ip": "::1",
+    "ipv4": "103.214.60.11",
+    "ipv6": "::1",
+    "protocol": "IPv6",
+    "city": "Delhi",
+    "country": "IN",
+    "asn": "AS133982",
+    "asOrg": "Kumar Networks",
+    "colo": "DEL",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "serverLocation": "DEL Edge (Delhi, IN)",
+    "region": "Delhi",
+    "asOrganization": "Kumar Networks",
+    "latitude": "28.65195",
+    "longitude": "77.23149"
+  }
+}
